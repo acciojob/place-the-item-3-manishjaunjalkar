@@ -1,2 +1,12 @@
+.holder{
+	display: flex;
+	flex-flow: row wrap;
+	gap:10px;
+}
 
+.div{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
 /* Your CSS Code here. */
